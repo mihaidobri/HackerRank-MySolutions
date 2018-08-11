@@ -2,7 +2,7 @@ package Day7Arrays;
 
 import java.util.*;
 
-public class Solution {
+public class Day7Arrays {
 
     private static final Scanner scanner = new Scanner(System.in);
 
