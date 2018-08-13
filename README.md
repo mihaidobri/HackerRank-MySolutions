@@ -2,11 +2,11 @@
     <a href="https://www.hackerrank.com/mihaidobri">
         <img height=85 src="https://github.com/mihaidobri/HackerRank-MySolutions/blob/master/src/main/resources/images/hackerrank.svg">
     </a>
-    <br>This repository contains HackerRank problems solutions
+    <br>Click ^ for my Hacker Rank profile
 </p>
 
 
-# HackerRank-MySolutions
+#
 My solutions to Hacker Rank problems
 
 # 30 DAYS OF CODE
