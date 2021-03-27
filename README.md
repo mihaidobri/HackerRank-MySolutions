@@ -2,7 +2,7 @@
     <a href="https://www.hackerrank.com/mihaidobri">
         <img height=85 src="https://github.com/mihaidobri/HackerRank-MySolutions/blob/master/src/main/resources/images/hackerrank.svg">
     </a>
-    <br>Click ^ for my Hacker Rank profile
+    <br>Click on the above image for my Hacker Rank profile
 </p>
 
 
